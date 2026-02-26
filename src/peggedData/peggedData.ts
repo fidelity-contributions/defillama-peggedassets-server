@@ -7197,4 +7197,23 @@ export default [
     wiki: null,
     module: "brth",
   },
+  {
+    id: "353",
+    name: "GAIB AID",
+    address: "0x18f52b3fb465118731d9e0d276d4eb3599d57596",
+    symbol: "AID",
+    url: "https://aid.gaib.ai",
+    description: "AI Dollar (AID) is a synthetic dollar fully backed by the U.S. Treasuries and stable assets and minted 1:1 by depositing USDC, USDT and other accepted stablecoins. It's the first product built on GAIB's economic layer, an entry point to GAIB's tokenized portfolio of AI infrastructure, and a base currency in the broader DeFi ecosystem.",
+    mintRedeemDescription: "AID supports native mint/redeem flows on Ethereum, Arbitrum, Base, and BSC, with 1:1 reserve backing managed by GAIB.",
+    onCoinGecko: "true",
+    gecko_id: "gaib-aid",
+    cmcId: null,
+    pegType: "peggedUSD",
+    pegMechanism: "fiat-backed",
+    priceSource: "defillama",
+    auditLinks: ["https://docs.gaib.ai/audits"],
+    twitter: "https://x.com/gaib_ai",
+    wiki: "https://docs.gaib.ai/",
+    module: "gaib-aid",
+  }
 ] as PeggedAsset[];
