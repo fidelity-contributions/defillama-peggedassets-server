@@ -2674,6 +2674,7 @@ export default [
     twitter: "https://twitter.com/0xAlternity",
     wiki: "https://docs.alternity.finance/faq/redemptions-and-lcny-price-stability",
     deadUrl: true,
+    deprecated: true,
   },
   {
     id: "128",
