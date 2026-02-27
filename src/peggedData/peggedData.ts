@@ -2743,7 +2743,7 @@ export default [
   {
     id: "131",
     name: "UAHT",
-    address: "0x0D9447E16072b636b4a1E8f2b8C644e58F3eaA6A",
+    address: "polygon:0x0D9447E16072b636b4a1E8f2b8C644e58F3eaA6A",
     symbol: "UAHT",
     url: "https://uaht.io",
     description: "Borderless protocol for free people.",
