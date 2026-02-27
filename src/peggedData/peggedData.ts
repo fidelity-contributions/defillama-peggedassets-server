@@ -2664,7 +2664,7 @@ export default [
     mintRedeemDescription:
       "Users can redeem their LCNY for ETH at any time without limitations. However, a redemption fee might be charged on the redeemed amount.",
     onCoinGecko: "false",
-    gecko_id: null,
+    gecko_id: "alternity-cny",
     module: "alternity-cny",
     cmcId: null,
     pegType: "peggedCNY",
@@ -2748,9 +2748,8 @@ export default [
     description: "Borderless protocol for free people.",
     mintRedeemDescription: "UAHT is pegged to UAH Ukraine Currency",
     onCoinGecko: "false",
-    gecko_id: null,
+    gecko_id: "uaht",
     module: "uaht",
-
     cmcId: null,
     pegType: "peggedUAH",
     pegMechanism: "fiat-backed",
